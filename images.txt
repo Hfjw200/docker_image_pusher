@@ -1,1 +1,1 @@
-docker pull developer024/networkdownload:latest
+sudo docker pull developer024/networkdownload:latest
